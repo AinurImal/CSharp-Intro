@@ -1,0 +1,28 @@
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\USER\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\HelloWorld\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
