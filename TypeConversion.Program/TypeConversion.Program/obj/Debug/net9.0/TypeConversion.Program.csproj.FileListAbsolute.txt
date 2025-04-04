@@ -1,0 +1,14 @@
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\bin\Debug\net9.0\TypeConversion.Program.exe
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\bin\Debug\net9.0\TypeConversion.Program.deps.json
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\bin\Debug\net9.0\TypeConversion.Program.runtimeconfig.json
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\bin\Debug\net9.0\TypeConversion.Program.dll
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\bin\Debug\net9.0\TypeConversion.Program.pdb
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\TypeConversion.Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\TypeConversion.Program.AssemblyInfoInputs.cache
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\TypeConversion.Program.AssemblyInfo.cs
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\TypeConversion.Program.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\TypeConversion.Program.dll
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\refint\TypeConversion.Program.dll
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\TypeConversion.Program.pdb
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\TypeConversion.Program.genruntimeconfig.cache
+C:\Users\USER\source\Csharp\TypeConversion.Program\TypeConversion.Program\obj\Debug\net9.0\ref\TypeConversion.Program.dll
