@@ -1,0 +1,14 @@
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\Variables.Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\Variables.Program.AssemblyInfoInputs.cache
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\Variables.Program.AssemblyInfo.cs
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\Variables.Program.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\bin\Debug\net9.0\Variables.Program.exe
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\bin\Debug\net9.0\Variables.Program.deps.json
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\bin\Debug\net9.0\Variables.Program.runtimeconfig.json
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\bin\Debug\net9.0\Variables.Program.dll
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\bin\Debug\net9.0\Variables.Program.pdb
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\Variables.Program.dll
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\refint\Variables.Program.dll
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\Variables.Program.pdb
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\Variables.Program.genruntimeconfig.cache
+C:\Users\USER\source\Csharp\Variables.Program\Variables.Program\obj\Debug\net9.0\ref\Variables.Program.dll
