@@ -1,0 +1,28 @@
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.exe
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.deps.json
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.runtimeconfig.json
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.dll
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.pdb
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.dll
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\refint\CSharpFundamentals.dll
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.pdb
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.genruntimeconfig.cache
+C:\Users\USER\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\ref\CSharpFundamentals.dll
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.exe
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.deps.json
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.dll
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\bin\Debug\net9.0\CSharpFundamentals.pdb
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.dll
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\refint\CSharpFundamentals.dll
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.pdb
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\CSharpFundamentals.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\CSharpFundamentals\CSharpFundamentals\obj\Debug\net9.0\ref\CSharpFundamentals.dll
