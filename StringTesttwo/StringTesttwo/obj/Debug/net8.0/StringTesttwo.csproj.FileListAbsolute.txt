@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\bin\Debug\net8.0\StringTesttwo.exe
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\bin\Debug\net8.0\StringTesttwo.deps.json
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\bin\Debug\net8.0\StringTesttwo.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\bin\Debug\net8.0\StringTesttwo.dll
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\bin\Debug\net8.0\StringTesttwo.pdb
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\StringTesttwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\StringTesttwo.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\StringTesttwo.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\StringTesttwo.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\StringTesttwo.dll
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\refint\StringTesttwo.dll
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\StringTesttwo.pdb
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\StringTesttwo.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\StringTesttwo\StringTesttwo\obj\Debug\net8.0\ref\StringTesttwo.dll
