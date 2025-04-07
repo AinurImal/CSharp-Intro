@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\bin\Debug\net8.0\FileTesttwo.exe
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\bin\Debug\net8.0\FileTesttwo.deps.json
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\bin\Debug\net8.0\FileTesttwo.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\bin\Debug\net8.0\FileTesttwo.dll
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\bin\Debug\net8.0\FileTesttwo.pdb
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\FileTesttwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\FileTesttwo.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\FileTesttwo.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\FileTesttwo.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\FileTesttwo.dll
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\refint\FileTesttwo.dll
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\FileTesttwo.pdb
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\FileTesttwo.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\FileTesttwo\FileTesttwo\obj\Debug\net8.0\ref\FileTesttwo.dll
