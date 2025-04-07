@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\bin\Debug\net8.0\RandomNumber.exe
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\bin\Debug\net8.0\RandomNumber.deps.json
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\bin\Debug\net8.0\RandomNumber.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\bin\Debug\net8.0\RandomNumber.dll
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\bin\Debug\net8.0\RandomNumber.pdb
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\RandomNumber.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\RandomNumber.dll
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\refint\RandomNumber.dll
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\RandomNumber.pdb
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\RandomNumber.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\RandomNumber\RandomNumber\obj\Debug\net8.0\ref\RandomNumber.dll
