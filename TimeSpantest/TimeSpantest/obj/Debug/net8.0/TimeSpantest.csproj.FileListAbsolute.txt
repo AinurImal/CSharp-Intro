@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\bin\Debug\net8.0\TimeSpantest.exe
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\bin\Debug\net8.0\TimeSpantest.deps.json
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\bin\Debug\net8.0\TimeSpantest.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\bin\Debug\net8.0\TimeSpantest.dll
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\bin\Debug\net8.0\TimeSpantest.pdb
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\TimeSpantest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\TimeSpantest.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\TimeSpantest.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\TimeSpantest.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\TimeSpantest.dll
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\refint\TimeSpantest.dll
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\TimeSpantest.pdb
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\TimeSpantest.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\TimeSpantest\TimeSpantest\obj\Debug\net8.0\ref\TimeSpantest.dll
