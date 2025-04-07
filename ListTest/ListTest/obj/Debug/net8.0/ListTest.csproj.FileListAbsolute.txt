@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\bin\Debug\net8.0\ListTest.exe
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\bin\Debug\net8.0\ListTest.deps.json
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\bin\Debug\net8.0\ListTest.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\bin\Debug\net8.0\ListTest.dll
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\bin\Debug\net8.0\ListTest.pdb
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\ListTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\ListTest.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\ListTest.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\ListTest.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\ListTest.dll
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\refint\ListTest.dll
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\ListTest.pdb
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\ListTest.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\ListTest\ListTest\obj\Debug\net8.0\ref\ListTest.dll
