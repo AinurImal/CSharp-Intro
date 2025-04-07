@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.exe
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.deps.json
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.dll
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.pdb
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.dll
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\refint\ArrayTest.dll
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.pdb
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\ArrayTest\ArrayTest\obj\Debug\net8.0\ref\ArrayTest.dll
