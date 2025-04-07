@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\ProceduralTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\ProceduralTest.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\ProceduralTest.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\ProceduralTest.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\bin\Debug\net8.0\ProceduralTest.exe
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\bin\Debug\net8.0\ProceduralTest.deps.json
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\bin\Debug\net8.0\ProceduralTest.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\bin\Debug\net8.0\ProceduralTest.dll
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\bin\Debug\net8.0\ProceduralTest.pdb
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\ProceduralTest.dll
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\refint\ProceduralTest.dll
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\ProceduralTest.pdb
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\ProceduralTest.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\ProceduralTest\ProceduralTest\obj\Debug\net8.0\ref\ProceduralTest.dll
