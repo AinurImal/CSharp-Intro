@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\bin\Debug\net8.0\DateTimetest.exe
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\bin\Debug\net8.0\DateTimetest.deps.json
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\bin\Debug\net8.0\DateTimetest.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\bin\Debug\net8.0\DateTimetest.dll
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\bin\Debug\net8.0\DateTimetest.pdb
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\DateTimetest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\DateTimetest.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\DateTimetest.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\DateTimetest.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\DateTimetest.dll
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\refint\DateTimetest.dll
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\DateTimetest.pdb
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\DateTimetest.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\DateTime\DateTime\obj\Debug\net8.0\ref\DateTimetest.dll
