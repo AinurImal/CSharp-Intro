@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\bin\Debug\net8.0\StringBuilderTest.exe
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\bin\Debug\net8.0\StringBuilderTest.deps.json
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\bin\Debug\net8.0\StringBuilderTest.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\bin\Debug\net8.0\StringBuilderTest.dll
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\bin\Debug\net8.0\StringBuilderTest.pdb
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\StringBuilderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\StringBuilderTest.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\StringBuilderTest.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\StringBuilderTest.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\StringBuilderTest.dll
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\refint\StringBuilderTest.dll
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\StringBuilderTest.pdb
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\StringBuilderTest.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\StringBuilderTest\StringBuilderTest\obj\Debug\net8.0\ref\StringBuilderTest.dll
